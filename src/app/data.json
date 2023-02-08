@@ -20,5 +20,59 @@
             "name": "Contact Us",
             "route": "/contact-us"
         }
+    ],
+    "ourLinks": [
+        {
+            "id": "001",
+            "name": "Home",
+            "route": "/"
+        },
+        {
+            "id": "002",
+            "name": "About Us",
+            "route": "/about-us"
+        },
+        {
+            "id": "003",
+            "name": "Services",
+            "route": "/services"
+        },
+        {
+            "id": "004",
+            "name": "Models",
+            "route": "/models"
+        },
+        {
+            "id": "005",
+            "name": "Blog",
+            "route": "/blog"
+        }
+    ],
+    "otherLinks": [
+        {
+            "id": "001",
+            "name": "FAQ",
+            "route": "/faq"
+        },
+        {
+            "id": "002",
+            "name": "Contact Us",
+            "route": "/contact-us"
+        },
+        {
+            "id": "003",
+            "name": "Support",
+            "route": "/support"
+        },
+        {
+            "id": "004",
+            "name": "Privacy Policy",
+            "route": "/privacy-policy"
+        },
+        {
+            "id": "005",
+            "name": "Terms &amp; Conditions",
+            "route": "/terms-and-conditions"
+        }
     ]
 }
