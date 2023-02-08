@@ -23,7 +23,7 @@ const NavItem = styled.li<{ burger?: any; active?: any }>`
     md:text-base
     text-black
     font-medium
-    mr-1
+    mr-3
     md:mr-5
     cursor-pointer
     transition
