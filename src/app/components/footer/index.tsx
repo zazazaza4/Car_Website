@@ -26,10 +26,10 @@ const InnerContainer = styled.div`
       flex
       flex-wrap
       flex-col
-      min-w-full
       h-full
       max-w-screen-2xl
       justify-center
+      md:flex-row
     `}
 `;
 
@@ -40,7 +40,7 @@ const BottomContainer = styled.div`
     max-w-screen-2xl
     md:justify-start
     mt-7
-    md:mt-1
+    md:mt-4
   `}
 `;
 
