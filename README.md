@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+## Discover Movies and TV shows
+# [Demo](https://movie-react-project.vercel.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+### Hero Slide component
+<a href="https://drive.google.com/uc?export=view&id=1x_vmuVTp-7WIUARMzRUy-9TFQo4P-5EN"><img src="https://drive.google.com/uc?export=view&id=1x_vmuVTp-7WIUARMzRUy-9TFQo4P-5EN" style="width: 650px; max-width: 100%; height: auto" />
+### Movie List component
+<a href="https://drive.google.com/uc?export=view&id=1fhmlQ7mngEhA-CahN2ttxc0Q01ZV5WIm"><img src="https://drive.google.com/uc?export=view&id=1fhmlQ7mngEhA-CahN2ttxc0Q01ZV5WIm" style="width: 650px; max-width: 100%; height: auto" />
+### Catalog page
+<a href="https://drive.google.com/uc?export=view&id=151-YTLcOrG8jkqKYBR0ThrCCsafQlmAb"><img src="https://drive.google.com/uc?export=view&id=151-YTLcOrG8jkqKYBR0ThrCCsafQlmAb" style="width: 650px; max-width: 100%; height: auto" />
+### Detail page
+<a href="https://drive.google.com/uc?export=view&id=1euHG8gI9SsEkJMoLHT0VDVQ4Pmks7kta"><img src="https://drive.google.com/uc?export=view&id=1euHG8gI9SsEkJMoLHT0VDVQ4Pmks7kta" style="width: 650px; max-width: 100%; height: auto" />
 
-## Available Scripts
+### What's included
+| Name             | Description   |
+| :-------------:|--------------|
+| [React](https://reactjs.org/) |  Build Web Apps using JavaScript and React. |
+| [React Router](https://reactrouter.com/en/main/start/overview) |This is a collection of navigational components that compose declaratively with your application.  |
+| [Swiper](https://swiperjs.com/) |It is a modern touch slider which is focused only on modern apps to bring the best experience and simplicity.|
+| [Scss](https://sass-lang.com/) |This is the most mature, stable, and powerful professional grade CSS extension language in the world| 
+| [ESLint](http://eslint.org/) | The pluggable linting utility for JavaScript and JSX |
+| [TMDB](https://www.themoviedb.org/) | The API service is for those of you interested in using our movie, TV show or actor images and/or data in your application. |
 
-In the project directory, you can run:
+### Installation
 
-### `npm start`
+Clone this repo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+$ git clone git@github.com:zazazaza4/Movie_React_Project.git
+$ cd Movie_React_Project
+$ yarn install or npm install
+```
