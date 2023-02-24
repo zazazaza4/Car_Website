@@ -1,31 +1,31 @@
-## Discover Movies and TV shows
-# [Demo](https://movie-react-project.vercel.app)
+## Car App
+# [Demo](mern-website-sigma.vercel.app)
 
-### Hero Slide component
-<a href="https://drive.google.com/uc?export=view&id=1x_vmuVTp-7WIUARMzRUy-9TFQo4P-5EN"><img src="https://drive.google.com/uc?export=view&id=1x_vmuVTp-7WIUARMzRUy-9TFQo4P-5EN" style="width: 650px; max-width: 100%; height: auto" />
-### Movie List component
-<a href="https://drive.google.com/uc?export=view&id=1fhmlQ7mngEhA-CahN2ttxc0Q01ZV5WIm"><img src="https://drive.google.com/uc?export=view&id=1fhmlQ7mngEhA-CahN2ttxc0Q01ZV5WIm" style="width: 650px; max-width: 100%; height: auto" />
-### Catalog page
-<a href="https://drive.google.com/uc?export=view&id=151-YTLcOrG8jkqKYBR0ThrCCsafQlmAb"><img src="https://drive.google.com/uc?export=view&id=151-YTLcOrG8jkqKYBR0ThrCCsafQlmAb" style="width: 650px; max-width: 100%; height: auto" />
-### Detail page
-<a href="https://drive.google.com/uc?export=view&id=1euHG8gI9SsEkJMoLHT0VDVQ4Pmks7kta"><img src="https://drive.google.com/uc?export=view&id=1euHG8gI9SsEkJMoLHT0VDVQ4Pmks7kta" style="width: 650px; max-width: 100%; height: auto" />
+### Main
+![Main](./Demo_Main.PNG)
+### Swiper 
+![Swiper](./Demo_Swiper.PNG)
+### Our Working Steps 
+![Steps](./Demo_Steps.PNG)
+### Footer 
+![Footer](./Demo_Footer.PNG)
 
 ### What's included
 | Name             | Description   |
 | :-------------:|--------------|
 | [React](https://reactjs.org/) |  Build Web Apps using JavaScript and React. |
-| [React Router](https://reactrouter.com/en/main/start/overview) |This is a collection of navigational components that compose declaratively with your application.  |
+| [React Redux](https://react-redux.js.org/) |React Redux is maintained by the Redux team, and kept up-to-date with the latest APIs from Redux and React.|
 | [Swiper](https://swiperjs.com/) |It is a modern touch slider which is focused only on modern apps to bring the best experience and simplicity.|
-| [Scss](https://sass-lang.com/) |This is the most mature, stable, and powerful professional grade CSS extension language in the world| 
-| [ESLint](http://eslint.org/) | The pluggable linting utility for JavaScript and JSX |
-| [TMDB](https://www.themoviedb.org/) | The API service is for those of you interested in using our movie, TV show or actor images and/or data in your application. |
+| [Styled Components](https://styled-components.com/) |This lets you write actual CSS in your JavaScript| 
+| [twin.macro](https://github.com/ben-rogerson/twin.macro) | Twin blends the magic of Tailwind with the flexibility of css-in-js at build time. |
+| [Typescript](https://www.typescriptlang.org/) | TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.  |
 
 ### Installation
 
 Clone this repo
 
 ```sh
-$ git clone git@github.com:zazazaza4/Movie_React_Project.git
-$ cd Movie_React_Project
+$ git clone git@github.com:zazazaza4/Car_Website.git
+$ cd Car_Website
 $ yarn install or npm install
 ```
